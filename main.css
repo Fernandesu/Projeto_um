@@ -164,6 +164,7 @@ footer input, textarea{
     border: none;
     border-bottom: 4px solid rgb(175, 114, 15);
     border-radius: 2px;
+    outline-color: rgb(175, 114, 15) ;
 }
 
 footer button{
